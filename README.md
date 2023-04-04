@@ -18,7 +18,7 @@ Lightwave Modeler用スクリプト
 
 ## Installation
 
-最新版は、Releaseページからダウンロードしてください。
+最新版は、[Releaseページ](https://github.com/narudesign-sekig/SK_StraightenObj/releases)からダウンロードしてください。
 
 zipファイルを解凍後、SK_StraightenObj.lscを任意の場所に移動し、Lightwaveからプラグインを追加してください。
 
